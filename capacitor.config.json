@@ -1,0 +1,12 @@
+{
+  "appId": "com.onionguard.app",
+  "appName": "OnionGuard",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": false
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}
